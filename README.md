@@ -1,3 +1,3 @@
-# [Форма регистрации](https://github.com/tttatttu/project10.git)
+# [Форма регистрации](https://tatianam.github.io)
 
 ## Версия 1.0
