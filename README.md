@@ -1,3 +1,3 @@
-# [Форма регистрации](https://TatianaMalashkina.github.io/project_10)
+# [Форма регистрации](https://TatianaMalashkina.github.io/project10)
 
 ## Версия 1.0
