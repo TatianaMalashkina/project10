@@ -1,4 +1,4 @@
-# [Форма регистрации](https://tttatttu.github.io/project10)
+# [Форма регистрации](https://tttatttu.github.io/validation_form)
 
 ## Версия 0.0.6
 
